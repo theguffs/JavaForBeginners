@@ -1,3 +1,4 @@
+package Javaforbegginers.tabelline;
 
 public class MultiplicationTableRunner {
 
